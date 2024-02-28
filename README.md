@@ -7,16 +7,15 @@ One thing to note is that I haven't implemented responsive design for this proje
 
 1- This step is only necessary if you want to change the first song on the list because when you load the code, the JavaScript will only work after you change to another song and then go back to the first one.
 
-<!--
+
   <div class="container-application">
   <h1>Spothomas</h1>
-      <img src="./images/musica1.avif" id="music-img" />
+      <img src="./images/musica12.avif" id="music-img" /> (i change the number to don't appear the image)
   <div id="container-text-btn">
     <div id="container-text">
       <p id="number">Song 1</p>
       <p id="name">Pressure - Martin Garrix</p>
     </div>
- -->
 
 So, you need to change the image source (src="./images/musica1.avif") and the name of the song (Pressure - Martin Garrix), that's it.
 
