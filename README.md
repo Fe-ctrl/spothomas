@@ -9,8 +9,8 @@ One thing to note is that I haven't implemented responsive design for this proje
 
   <div class="container-application">
   <h1>Spothomas</h1>
-  <img src="./images/musica1.avif" id="music-img" />
-
+<!--   <img src="./images/musica1.avif" id="music-img" />
+ -->
   <div id="container-text-btn">
     <div id="container-text">
       <p id="number">Song 1</p>
